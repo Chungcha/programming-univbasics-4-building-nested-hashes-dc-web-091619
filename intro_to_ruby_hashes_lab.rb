@@ -35,7 +35,7 @@ def monopoly_with_third_tier
     },
     :names=> {
       reading_railroad:{},
-      Betty:"playing", 
+      pennsylvania_railroad:{}, 
       Carl:"playing",
       name3:"playing"
     }
